@@ -1,0 +1,9 @@
+/target/
+/extentreport/
+/screenshots/
+/logs/
+/custom-formatter-output.txt
+/debug.log
+/.settings
+/.classpath
+/.project
