@@ -10,7 +10,6 @@ Developed a sample BDD framework which support to develop automation test script
 5. Junit
 6. Maven
 
-
 # Steps to start:
 1. Clone / Download the project into your local.
 2. Open the Command prompt and navigate to project location.
@@ -18,7 +17,6 @@ Developed a sample BDD framework which support to develop automation test script
     - mvn clean :- To clean the maven repo.
     - mvn install :- To install the maven requirements.
     - mvn test -Dbrowser=chrome -Denv=UAT :- To execute the test scenarios on chrome browser and UAT env.
-
 
 # Scenario details: 
 1. Enter https://www.goibibo.com
