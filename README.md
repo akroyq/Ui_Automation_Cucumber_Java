@@ -28,10 +28,10 @@ Developed a sample BDD framework which support to develop automation test script
 # Approach: 
 1. Implemented Behavior Driven Development(BDD) approach.
 2. Implemented FileUtil, RandomUtil, Screenshot libraries. 
-4. Maintained low level and high level logs.
-5. Used page object model design pattern.
-6. Test data maintained in properties files/ data table.
-7. Browser and environment are parameterized (example: -Dbrowser=chrome -Denv=UAT).
-8. Maintained tags.
-9. Used Junit library for assertions & reporting.
-10.Used Extentsreport for reporting.
+3. Maintained low level and high level logs.
+4. Used page object model design pattern.
+5. Test data maintained in properties files/ data table.
+6. Browser and environment are parameterized (example: -Dbrowser=chrome -Denv=UAT).
+7. Maintained tags.
+8. Used Junit library for assertions.
+9.Used Extentsreport for reporting.
