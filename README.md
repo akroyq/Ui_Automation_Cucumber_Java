@@ -1,6 +1,6 @@
 # UI-Automation-Cucumber-Java
 # Objective: 
-Developed a sample BDD framework which support to develop automation test scripts for functional testing.
+Developed a sample BDD framework that supports to develop automation test scripts for functional testing.
 
 # Libraries used:
 1. Java
